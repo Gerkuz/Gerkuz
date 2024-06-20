@@ -1,16 +1,29 @@
-## Hi there 👋
+Привет! 
+Я QA-инженер с опытом тестирования мобильных игр. 
 
-<!--
-**Gerkuz/Gerkuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Навыки.
 
-Here are some ideas to get you started:
+Понимание теории тестирования;
+Написание и поддержка тестовой документации:
+чек-листы
+тест-кейсы
+баг-репорты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Инструменты.
+
+Git, trello, jira
+
+
+CV hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673
+
+Контакты:
+
+
+Telegram
+@gerkuzya
+
+Tel. +79257079778
+
+LinkedIN
+https://www.linkedin.com/in/maria-ivanova-0930a9214/
