@@ -30,5 +30,4 @@ tg @gerkuzya
 
 Tel. +79257079778
 
-LinkedIN
-https://www.linkedin.com/in/maria-ivanova-0930a9214/
+[![LinkedIN](https://github.com/Gerkuz/Gerkuz/blob/main/assets/LinkedIn_Logo2.svg.png)](https://www.linkedin.com/in/maria-ivanova-0930a9214/)
