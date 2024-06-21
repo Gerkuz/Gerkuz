@@ -18,7 +18,7 @@ Git, trello, jira
 
 
 ### CV 
-[![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.jpg)](hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673)
+[![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.png)](hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673)
 
 ___
 
