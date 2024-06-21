@@ -13,8 +13,10 @@
 
 
 ### Инструменты.
-
-Git, trello, jira
+![trello](https://img.shields.io/badge/Trello-090909)
+![jira](https://img.shields.io/badge/Jira-090909)
+![git](https://img.shields.io/badge/Git-090909)
+![devtools](https://img.shields.io/badge/DevTools-090909)
 
 
 ___
