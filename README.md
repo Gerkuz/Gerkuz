@@ -17,13 +17,12 @@
 Git, trello, jira
 
 
-### CV 
-[![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.png)](https://hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673)
-
 ___
 
-### Контакты:
 
+### Контакты и ссылки:
+
+  [![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.png)](https://hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673) CV
 
 tg @gerkuzya
 
