@@ -1,7 +1,7 @@
 ## Обо мне
 
 Привет! 
-Я QA-инженер с опытом тестирования мобильных игр. 
+Я QA-инженер с опытом в тестировании мобильных игр. Люблю учиться новому и буду рада поработать на самых разных проектах.
 
 ### Навыки.
 
@@ -18,7 +18,7 @@ Git, trello, jira
 
 
 ### CV 
-[![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.png)](hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673)
+[![cv](https://github.com/Gerkuz/Gerkuz/blob/main/assets/cv2.png)](https://hh.ru/resume/9d44f293ff0d583bc40039ed1f453364753673)
 
 ___
 
